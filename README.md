@@ -38,7 +38,7 @@ Personalized-Gift-Recommendation/
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/Personalized-Gift-Recommendation.git
+git clone https://github.com/Sandeepmopidevi/Personalized-Gift-Recommendation.git
 cd Personalized-Gift-Recommendation
 ```
 
